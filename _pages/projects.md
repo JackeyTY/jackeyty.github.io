@@ -24,7 +24,7 @@ horizontal: false
 		</ul>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -36,7 +36,7 @@ horizontal: false
     <p>Flocking simulation based on the <a href="https://vergenet.net/~conrad/boids/pseudocode.html" target="_blank">Reynolds Boids algorithm</a> in CUDA. Optimized performace with coherent uniform grid-based search for updating positions and velocities.</p>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -48,7 +48,7 @@ horizontal: false
     <p>MNIST Digits reconstruction using VAE and PPCA.</p>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -60,7 +60,7 @@ horizontal: false
     <p>Synthetic 3D scene rendering from 2D LEGO images using NeRF with volumetric rendering.</p>
   </div>
 </div>
-
+<br>
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 30%;">
@@ -76,7 +76,7 @@ horizontal: false
 		</ul>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -89,7 +89,7 @@ horizontal: false
     <p>Built in Unity.</p>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -102,7 +102,7 @@ horizontal: false
     <p>Built in UE 5.</p>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -115,7 +115,7 @@ horizontal: false
     <p>Built in Unity.</p>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -128,7 +128,7 @@ horizontal: false
     <p>Built in Unity.</p>
   </div>
 </div>
-
+<br>
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -144,9 +144,7 @@ horizontal: false
 		</ul>
   </div>
 </div>
-
-
-
+<br>
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 30%;">
