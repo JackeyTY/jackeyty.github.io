@@ -11,6 +11,30 @@ horizontal: false
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 30%;">
+    <img src="../assets/img/nerf.png" alt="Description of image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 70%; padding-left: 20px;">
+    <h3><a href="https://github.com/JackeyTY/Notebooks/tree/main/NeRF" target="_blank">Synthetic 3D Scene Rendering</a></h3>
+    <p>Synthetic 3D scene rendering from 2D LEGO images using NeRF with volumetric rendering.</p>
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 30%;">
+    <img src="../assets/img/vae.png" alt="Description of image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 70%; padding-left: 20px;">
+    <h3><a href="https://github.com/JackeyTY/Notebooks/tree/main/VAE" target="_blank">MNIST Digits Reconstruction</a></h3>
+    <p>MNIST Digits reconstruction using VAE and PPCA.</p>
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 30%;">
     <img src="../assets/img/path-tracer.png" alt="Description of image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 70%; padding-left: 20px;">
@@ -26,6 +50,18 @@ horizontal: false
 </div>
 <br>
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 30%;">
+    <img src="../assets/img/sponza.gif" alt="Description of image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 70%; padding-left: 20px;">
+    <h3><a href="https://github.com/JackeyTY/WebGPU-Forward-Plus-and-Clustered-Deferred" target="_blank">WebGPU Forward+ and Clustered Deferred rendering</a></h3>
+    <p><a href="https://www.jackeytang.com/WebGPU-Forward-Plus-and-Clustered-Deferred/" target="_blank">Live Demo</a></p>
+  </div>
+</div>
+
+<br>
+
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 30%;">
@@ -34,30 +70,6 @@ horizontal: false
   <div style="flex: 70%; padding-left: 20px;">
     <h3><a href="https://github.com/JackeyTY/CUDA-Flocking" target="_blank">Flocking Simulation</a></h3>
     <p>Flocking simulation based on the <a href="https://vergenet.net/~conrad/boids/pseudocode.html" target="_blank">Reynolds Boids algorithm</a> in CUDA. Optimized performace with coherent uniform grid-based search for updating positions and velocities.</p>
-  </div>
-</div>
-<br>
-
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 30%;">
-    <img src="../assets/img/vae.png" alt="Description of image" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 70%; padding-left: 20px;">
-    <h3><a href="https://github.com/JackeyTY/Notebooks/tree/main/VAE" target="_blank">MNIST Digits Reconstruction</a></h3>
-    <p>MNIST Digits reconstruction using VAE and PPCA.</p>
-  </div>
-</div>
-<br>
-
-
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 30%;">
-    <img src="../assets/img/nerf.png" alt="Description of image" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 70%; padding-left: 20px;">
-    <h3><a href="https://github.com/JackeyTY/Notebooks/tree/main/NeRF" target="_blank">Synthetic 3D Scene Rendering</a></h3>
-    <p>Synthetic 3D scene rendering from 2D LEGO images using NeRF with volumetric rendering.</p>
   </div>
 </div>
 <br>
