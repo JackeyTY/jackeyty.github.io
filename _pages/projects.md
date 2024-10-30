@@ -52,6 +52,18 @@ horizontal: false
 
 <div style="display: flex; align-items: flex-start;">
   <div style="flex: 30%;">
+    <img src="../assets/img/gs.png" alt="Description of image" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="flex: 70%; padding-left: 20px;">
+    <h3><a href="https://github.com/JackeyTY/WebGPU-Gaussian-Splat-Viewer" target="_blank">WebGPU 3D Gaussian Splat Viewer</a></h3>
+    <p><a href="https://www.jackeytang.com/WebGPU-Gaussian-Splat-Viewer/" target="_blank">Live Demo</a></p>
+  </div>
+</div>
+
+<br>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 30%;">
     <img src="../assets/img/sponza.gif" alt="Description of image" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 70%; padding-left: 20px;">
@@ -59,7 +71,6 @@ horizontal: false
     <p><a href="https://www.jackeytang.com/WebGPU-Forward-Plus-and-Clustered-Deferred/" target="_blank">Live Demo</a></p>
   </div>
 </div>
-
 <br>
 
 
